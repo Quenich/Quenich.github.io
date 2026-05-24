@@ -9,6 +9,10 @@ on:
       - README.md
       - LICENSE
 
+  # 毎日 9:00 JST (00:00 UTC) に自動ビルド → 予約投稿が自動公開される
+  schedule:
+    - cron: "0 0 * * *"
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
