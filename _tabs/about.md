@@ -1,8 +1,42 @@
 ---
-# the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Kiwi Desk について
+
+Kiwi Desk は、**海外でのキャリア形成**を目指す人に向けた情報ブログです。
+
+ニュージーランドでのワーキングホリデー・就労ビザ取得・現地での仕事や生活など、実体験をもとにした情報を発信しています。
+
+---
+
+## 運営者について
+
+**Ken** と申します。
+
+日本で会社員として働いたのち、ニュージーランドへワーキングホリデーとして渡航。現地での就職活動を経て、Accredited Employer Work Visa（AEWV）を取得し、NZで就労しています。
+
+このブログは、私自身が「渡航前にこういう情報が欲しかった」と感じたことを中心に書いています。制度の解説だけでなく、実際に経験して気づいたこと・失敗したことも正直に書くつもりです。
+
+---
+
+## 発信テーマ
+
+- ニュージーランド ワーキングホリデー（ビザ申請・準備・現地生活）
+- 海外での就職・就労ビザ取得
+- 海外キャリアの作り方
+- AI・ツール活用（英語学習・仕事効率化）
+
+---
+
+## 連絡先
+
+ご質問・ご指摘・お仕事のご相談は以下までお気軽にどうぞ。
+
+**メール**：kiwidesk.global@gmail.com  
+**X (Twitter)**：[@kiwidesk_global](https://twitter.com/kiwidesk_global)
+
+---
+
+*記事の内容は私個人の体験・調査に基づくものです。制度・費用・手続きは変更になる場合があります。重要な手続きは各公式機関で最新情報をご確認ください。*
