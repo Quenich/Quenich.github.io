@@ -4,6 +4,7 @@ description: "NZワーホリのビザが取れたら次はこれ。保険・運�
 date: 2026-05-26 00:00:00 +0000
 categories: [ワーホリ, 渡航準備]
 tags: [NZ, ワーホリ, 出発前, チェックリスト, 渡航準備, ニュージーランド]
+image: /assets/img/posts/pre-departure-checklist.jpg
 ---
 
 NZワーホリのビザが取れた。あとは出発するだけ——と思っていたら、やることが山積みで焦った、というのが私の正直な経験です。
