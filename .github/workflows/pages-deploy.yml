@@ -23,7 +23,7 @@ permissions:
 
 # Allow one concurrent deployment
 concurrency:
-  group: "pages"
+  group: "kiwi-desk-deploy"
   cancel-in-progress: true
 
 jobs:
