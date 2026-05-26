@@ -3,6 +3,7 @@ title: "NZワーキングホリデービザの申請方法【日本人向け完�
 date: 2026-05-25 00:00:00 +0000
 categories: [ビザ, ワーホリ]
 tags: [NZ, ワーホリ, ビザ申請, ワーキングホリデー, ニュージーランド]
+image: /assets/img/posts/visa-application.jpg
 ---
 
 「NZに行きたいけど、ビザの申請って難しそう…」
