@@ -123,9 +123,7 @@ VISAとMastercardを1枚ずつ持つのが理想です。1枚が磁気不良や�
 <script type='text/javascript' src='https://ad-verification.a8.net/ad/js/brandsafe.js'></script>
 <div id='div_admane_async_1734_658_2972'>
 <script type='text/javascript'>
-<!--
 brandsafe_js_async('//ad-verification.a8.net/ad', '_site=1734&_article=658&_link=2972&_image=3219&_ns=1&sad=s00000015110002', '260527653888', '1');
-//-->
 </script>
 </div>
 <img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B40F9+EOOXYQ+38L8+BXYE9" alt="">
