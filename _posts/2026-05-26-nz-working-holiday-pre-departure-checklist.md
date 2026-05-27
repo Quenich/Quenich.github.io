@@ -112,9 +112,33 @@ NZは医療費が高額です。保険なしでの救急外来・入院は数十
 
 ### クレジットカードを2枚以上持つ
 
-- VISAまたはMastercardを1枚ずつが理想
-- 1枚は磁気不良や紛失に備えてサブに
-- 海外手数料が低いカードを選ぶと節約になります
+VISAとMastercardを1枚ずつ持つのが理想です。1枚が磁気不良や紛失でも、もう1枚があれば対応できます。
+
+**私が実際に持っていくカードの組み合わせ**
+
+| カード | ブランド | 海外旅行保険 |
+|--------|---------|------------|
+| 三井住友カード ゴールド（NL） | Visa | 利用付帯あり |
+| エポスカード ゴールド | Mastercard | 利用付帯あり |
+
+どちらも**ノーマルカードとして作成後、インビテーションが届いたらゴールドカードに切り替えることで永年無料**になります。ゴールドカードには海外旅行保険が付帯されており、2枚をサブとして組み合わせることで補償を厚くできます。
+
+> **「利用付帯」とは**：航空券・空港までのバスやタクシー代など、指定の旅行費用をそのカードで決済することで海外旅行保険が有効になる仕組みです。渡航前に対象の費用をカード払いにしておきましょう。
+
+まずはノーマルカードから始めてみてください。
+
+<div style="margin:1.5rem 0;text-align:center;">
+<script type='text/javascript' src='https://ad-verification.a8.net/ad/js/brandsafe.js'></script>
+<div id='div_admane_async_1734_658_2972'>
+<script type='text/javascript'>
+<!--
+brandsafe_js_async('//ad-verification.a8.net/ad', '_site=1734&_article=658&_link=2972&_image=3219&_ns=1&sad=s00000015110002', '260527653888', '1');
+//-->
+</script>
+</div>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B40F9+EOOXYQ+38L8+BXYE9" alt="">
+</div>
+<small style="display:block;text-align:center;opacity:0.55;font-size:0.78rem;margin-top:-1rem;">※ 広告・PR｜三井住友カード（NL）のバナーは提携承認後に追加予定</small>
 
 ### 当面の現金（NZドル）を準備する
 
