@@ -231,6 +231,10 @@ msmaflink({"n":"ポリエステル　パスポートケース　クリアポケ�
 <div id="msmaflink-Prlew">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
 
+クリアポケットのリフィルも別売りされているので、枚数を自由に増減できます。
+
+<!-- START MoshimoAffiliateEasyLink --><script type="text/javascript">(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;b[a]=b[a]||function(){arguments.currentScript=c.currentScript||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};c.getElementById(a)||(d=c.createElement(f),d.src=g,d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");msmaflink({"n":"無印良品 パスポートケース用リフィル クリアポケット 3枚入\/約20×10cm OHE89A0A","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/fidela\/cabinet\/fid21pic\/systempic090","p":["\/fid2-0dx68t7jb1.jpg","\/fid2-0dx68t7jb2.jpg","\/fid2-0dx68t7jb3.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/fidela\/fid2-0dx68t7jb\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/fidela\/fid2-0dx68t7jb\/","a_id":5594218,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":0}],"eid":"ZSCyM","s":"xs"});</script><div id="msmaflink-ZSCyM">リンク</div><!-- MoshimoAffiliateEasyLink END -->
+
 ---
 
 ## よくある質問
