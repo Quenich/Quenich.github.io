@@ -285,6 +285,23 @@ msmaflink({"n":"1000円ポッキリ TSAロック 3桁ダイヤル式南京錠 �
 <div id="msmaflink-LEwvh">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
 
+### ガジェットポーチ
+
+充電ケーブル・モバイルバッテリー・変換プラグをひとまとめにしておくと、機内持ち込み時や日々の荷物の出し入れが格段にスムーズになります。筆者もこのポーチに入れてまとめ管理しています。
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"ハコビズ ペンケース ペンポーチ ツールペンスタンド コクヨ カハ-HB11 社会人 持ち運び ガジェットポーチ 筆箱 ペン立て 大容量 大きい 事務用品 文具 収納ケース オフィス デスク 文房具 卓上 整理 コンパクト シンプル ビジネス 仕事 事務 業務 効率化 [M便 1\/1]","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/bunbougu-shibuya\/cabinet\/89","p":["\/kaha-hb11.jpg","\/kaha-hb11_1.jpg","\/kaha-hb11_2.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/bunbougu-shibuya\/kaha-hb11\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/bunbougu-shibuya\/kaha-hb11\/","a_id":5594218,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":0}],"eid":"jSsrh","s":"xs"});
+</script>
+<div id="msmaflink-jSsrh">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
 ---
 
 ## 7. 日本での各種手続き
@@ -348,6 +365,7 @@ msmaflink({"n":"1000円ポッキリ TSAロック 3桁ダイヤル式南京錠 �
 ### 旅行グッズ（あると便利）
 - [ ] パッキングキューブの準備
 - [ ] TSAロック付き南京錠（スーツケース＆ホステルロッカー用）
+- [ ] ガジェットポーチ（ケーブル・充電器類のまとめ収納）
 
 ### 日本での手続き
 - [ ] 住民票の扱い（海外転出届 or 実家に移す）
