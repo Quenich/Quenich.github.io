@@ -214,6 +214,23 @@ Yes / No の質問が続きます。持病・既往歴がない場合は基本�
 2. 航空券を手配する
 3. 海外旅行保険に加入する
 
+ビザが取れたら、パスポートや関連書類をまとめて管理しておくと出発前後がスムーズです。筆者が使っているのは無印良品のパスポートケース。パスポートがそのまま入るサイズで、内側のポケットでお札や書類を分けて管理できます。
+
+NZは島国なので、ワーホリ中に周辺国（オーストラリアや太平洋の島々など）へ旅行に出かける機会もあります。そういったときに複数の財布を持ち歩くのは不便なので、**日本円はパスポートケースに入れ、普段使いの財布はNZドル専用にする**という使い方が便利です。通貨の混在を防げ、両替した分の管理もしやすくなります。
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"ポリエステル　パスポートケース　クリアポケット付 黒　約23．5×13×2．5cm トラベル 旅行 携帯用【無印良品 公式】","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/mujirushi-ryohin\/cabinet","p":["\/item23\/4550344904541_04.jpg","\/item25\/4550344904541.jpg","\/item23\/4550344904541_01.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/mujirushi-ryohin\/4550344904541\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/mujirushi-ryohin\/4550344904541\/","a_id":5594218,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":0}],"eid":"Prlew","s":"xs"});
+</script>
+<div id="msmaflink-Prlew">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
 ---
 
 ## よくある質問
