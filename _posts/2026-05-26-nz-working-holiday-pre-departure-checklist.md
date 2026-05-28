@@ -245,7 +245,49 @@ msmaflink({"n":"ヤザワ　海外旅行用マルチ変換タップ（2個口・
 
 ---
 
-## 6. 日本での各種手続き
+## 6. 旅行グッズ（あると便利）
+
+### パッキングキューブ（仕分けポーチ）
+
+長期旅行では荷物の整理がそのまま生活のしやすさに直結します。パッキングキューブがあると、スーツケースの中を「衣類・下着・ガジェット」などに分けて管理でき、毎日の出し入れがスムーズになります。
+
+サイズ違いが複数セットになったタイプが使いやすく、無印良品でも同様の商品が購入できます。
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"7点セット「楽天1位 7冠獲得」＼最安値に挑戦！／ 送料無料 トラベルポーチ 圧縮バッグ 圧縮ポーチ 圧縮袋 旅行 ポーチ バッグ トラベルグッズ 便利グッズ パッキング 旅行ポーチ 収納ポーチ 軽量 出張 簡単圧縮 コンパクト 撥水加工 入院準備 メッシュ パッキングキューブ","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/emy-shop\/cabinet\/10213389","p":["\/zt1_7.jpg","\/yx1_2.jpg","\/zt2.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/emy-shop\/sw88\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/emy-shop\/sw88\/","a_id":5594218,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":0}],"eid":"AxI5W","s":"xs"});
+</script>
+<div id="msmaflink-AxI5W">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
+### TSAロック付き南京錠
+
+NZのバックパッカーズ（ホステル）では、共用ロッカーに自前の南京錠が必要なことがあります。「ロッカーはあるのに鍵がない」という状況は海外では珍しくありません。筆者も別の国の旅行中に同じ状況になり、急いで現地調達した経験があります。
+
+荷物に1個入れておくだけで安心感が違います。スーツケースの施錠にも使えるTSAロック付きタイプがおすすめです。
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"1000円ポッキリ TSAロック 3桁ダイヤル式南京錠 ワイヤータイプ 旅行用 安心 防犯グッズ TSAロック付き南京錠 スーツケース Lサイズ 大容量 旅行バッグ 超軽量 静音 スーツケース Mサイズ キャリーケース sサイズ キャリーバッグ スーツケース","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/valinirt-safe\/cabinet\/12638354","p":["\/imgrc0099131097.jpg","\/2.jpg","\/3.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/valinirt-safe\/tsa03-1\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/valinirt-safe\/tsa03-1\/","a_id":5594218,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":0}],"eid":"LEwvh","s":"xs"});
+</script>
+<div id="msmaflink-LEwvh">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
+---
+
+## 7. 日本での各種手続き
 
 これが最も面倒なカテゴリですが、後回しにすると帰国後に影響が出ます。
 
@@ -302,6 +344,10 @@ msmaflink({"n":"ヤザワ　海外旅行用マルチ変換タップ（2個口・
 - [ ] スマホのSIMフリー化
 - [ ] 日本SIMの扱いを決める
 - [ ] 変換プラグの準備（Type I・NZ/AU対応）
+
+### 旅行グッズ（あると便利）
+- [ ] パッキングキューブの準備
+- [ ] TSAロック付き南京錠（スーツケース＆ホステルロッカー用）
 
 ### 日本での手続き
 - [ ] 住民票の扱い（海外転出届 or 実家に移す）
