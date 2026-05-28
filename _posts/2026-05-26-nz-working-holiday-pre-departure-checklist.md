@@ -207,6 +207,42 @@ NZのメインキャリアは **One.nz・Spark・2degrees** の3社です。コ�
 
 番号を維持するコストを最小化したいなら **povo** がおすすめです。基本料金0円で、180日以内に1回トッピングを購入（最安180円〜）すれば番号が維持できます。実質**年間約360円**で日本の電話番号を持ち続けられます。
 
+### 変換プラグを準備する
+
+NZのコンセントは**Type I（斜め2〜3穴）**で、日本の形状（Type A）とは異なります。スマホ・PC・カメラの充電器をそのまま差し込むことができないため、変換プラグは必須アイテムです。
+
+筆者が実際に使っているのはヤザワのマルチ変換タップです。NZ対応はもちろん、複数の機器を同時に充電できる点が特に便利でした。USB充電器を別途持ち歩く必要がなくなります。
+
+**コンセント3個口タイプ**（PC・カメラ・その他を同時充電したい方に）
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"ヤザワ　海外旅行用マルチ変換タップ（3個口）　HPM6AC3WH (ホワイト)","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/r-kojima\/cabinet","p":["\/n0000000215\/4966307114542_1.jpg","\/n0000000932\/4966307114542_2.jpg","\/n0000000932\/4966307114542_3.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/r-kojima\/4966307114542\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/r-kojima\/4966307114542\/","a_id":5594218,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":0}],"eid":"hQyJ1","s":"xs"});
+</script>
+<div id="msmaflink-hQyJ1">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
+**コンセント2個口 + USB2ポートタイプ**（スマホはUSBで充電したい方に）
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"ヤザワ　海外旅行用マルチ変換タップ（2個口・USB2ポート）　HPM6AC2USB2WH (ホワイト)","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/r-kojima\/cabinet","p":["\/n0000000215\/4966307114559_1.jpg","\/n0000000932\/4966307114559_2.jpg","\/n0000000932\/4966307114559_3.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/r-kojima\/4966307114559\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/r-kojima\/4966307114559\/","a_id":5594218,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":0}],"eid":"Lj7zQ","s":"xs"});
+</script>
+<div id="msmaflink-Lj7zQ">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
 ---
 
 ## 6. 日本での各種手続き
@@ -265,6 +301,7 @@ NZのメインキャリアは **One.nz・Spark・2degrees** の3社です。コ�
 ### スマホ・通信
 - [ ] スマホのSIMフリー化
 - [ ] 日本SIMの扱いを決める
+- [ ] 変換プラグの準備（Type I・NZ/AU対応）
 
 ### 日本での手続き
 - [ ] 住民票の扱い（海外転出届 or 実家に移す）
