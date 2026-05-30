@@ -1,7 +1,7 @@
 ﻿---
 title: "AEWV取得後の生活【ビザ更新・永住権への道筋】"
 description: "AEWVを取得したら次のステップは？ビザ更新の条件、永住権への2つのルート（SMC・グリーンリスト）、タイムラインをNZ在住者の視点で解説します。"
-date: 2026-05-29 09:00:00 +0000
+date: 2026-05-29 14:00:00 +0000
 categories: [ビザ, キャリア]
 tags: [NZ, AEWV, 永住権, SMC, グリーンリスト, 長期定住, ニュージーランド, 移住]
 image: /assets/img/posts/aewv-residence.jpg
