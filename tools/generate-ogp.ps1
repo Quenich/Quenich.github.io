@@ -100,32 +100,39 @@ $selectedFamily = $fontFamilies | Where-Object {
 if (-not $selectedFamily) { $selectedFamily = "Arial" }
 
 $whiteBrush  = New-Object System.Drawing.SolidBrush([System.Drawing.Color]::White)
+$shadowBrush = New-Object System.Drawing.SolidBrush([System.Drawing.Color]::FromArgb(160, 0, 0, 0))
 
-# --- タイトル ---
-$titleFontSize = if ($Title.Length -le 18) { 54 } elseif ($Title.Length -le 26) { 46 } else { 37 }
-$titleFont    = New-Object System.Drawing.Font($selectedFamily, $titleFontSize, [System.Drawing.FontStyle]::Bold)
 $centerFormat = New-Object System.Drawing.StringFormat
 $centerFormat.Alignment     = [System.Drawing.StringAlignment]::Center
 $centerFormat.LineAlignment = [System.Drawing.StringAlignment]::Center
 
+# ドロップシャドウを付けて描画するヘルパー
+function Draw-TextWithShadow($g, $text, $font, $x, $y, $w, $h, $fmt, $shadow, $white) {
+    $shadowRect = New-Object System.Drawing.RectangleF(($x + 2), ($y + 2), $w, $h)
+    $textRect   = New-Object System.Drawing.RectangleF($x, $y, $w, $h)
+    $g.DrawString($text, $font, $shadow, $shadowRect, $fmt)
+    $g.DrawString($text, $font, $white,  $textRect,   $fmt)
+}
+
+# --- タイトル ---
+$titleFontSize = if ($Title.Length -le 18) { 54 } elseif ($Title.Length -le 26) { 46 } else { 37 }
+$titleFont = New-Object System.Drawing.Font($selectedFamily, $titleFontSize, [System.Drawing.FontStyle]::Bold)
+
 $titleY = if ($Subtitle) { 130 } else { 170 }
 $titleH = if ($Subtitle) { 270 } else { 310 }
-$titleRect = New-Object System.Drawing.RectangleF(70, $titleY, ($Width - 140), $titleH)
-$graphics.DrawString($Title, $titleFont, $whiteBrush, $titleRect, $centerFormat)
+Draw-TextWithShadow $graphics $Title $titleFont 70 $titleY ($Width - 140) $titleH $centerFormat $shadowBrush $whiteBrush
 $titleFont.Dispose()
 
 # --- サブタイトル（任意）---
 if ($Subtitle) {
-    $subtitleFont = New-Object System.Drawing.Font($selectedFamily, 28, [System.Drawing.FontStyle]::Regular)
-
-    # サブタイトルの下に細い白線を引いてアクセントに
-    $lineY = 408
-    $linePen = New-Object System.Drawing.Pen([System.Drawing.Color]::FromArgb(180, 255, 255, 255), 1.5)
+    # 区切り線
+    $lineY  = 408
+    $linePen = New-Object System.Drawing.Pen([System.Drawing.Color]::FromArgb(200, 255, 255, 255), 1.5)
     $graphics.DrawLine($linePen, 80, $lineY, ($Width - 80), $lineY)
     $linePen.Dispose()
 
-    $subtitleRect = New-Object System.Drawing.RectangleF(70, 415, ($Width - 140), 130)
-    $graphics.DrawString($Subtitle, $subtitleFont, $whiteBrush, $subtitleRect, $centerFormat)
+    $subtitleFont = New-Object System.Drawing.Font($selectedFamily, 28, [System.Drawing.FontStyle]::Bold)
+    Draw-TextWithShadow $graphics $Subtitle $subtitleFont 70 415 ($Width - 140) 130 $centerFormat $shadowBrush $whiteBrush
     $subtitleFont.Dispose()
 }
 
@@ -138,6 +145,7 @@ $graphics.DrawString("Kiwi Desk", $brandFont, $whiteBrush, $brandRect, $rightFor
 $brandFont.Dispose()
 
 $whiteBrush.Dispose()
+$shadowBrush.Dispose()
 $graphics.Dispose()
 
 # --- JPEG保存 ---
