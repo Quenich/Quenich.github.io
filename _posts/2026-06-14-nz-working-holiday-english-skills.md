@@ -106,6 +106,19 @@ YouTubeでNZ人のVlogやニュースを流し聴きするだけでも、現地�
 
 私はかつて発音矯正のために『英語耳』という本を読みましたが、大事なのは舌の位置です。Lは舌先を上の前歯の裏にあてて発音し、Rは舌先を反り返らせて上につけるイメージで、LとRをはっきり区別して大げさなくらい発音するのがコツです。
 
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"改訂3版　英語耳 発音ができるとリスニングができる [ 松澤　喜好 ]","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/book\/cabinet\/2595","p":["\/9784041112595_1_17.jpg","\/9784041112595_2_15.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/book\/16674073\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/book\/16674073\/","a_id":5652912,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"Ttgj6","s":"s"});
+</script>
+<div id="msmaflink-Ttgj6">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
 **3. 自分が働く業界の英語を事前に調べておく**
 
 働く予定の業界の基本用語を渡航前に少し調べておくだけで、職場での立ち上がりが早くなります。私の場合は自動車の部品名や作業指示の表現を事前にリストアップしておけばよかったと今でも思っています。

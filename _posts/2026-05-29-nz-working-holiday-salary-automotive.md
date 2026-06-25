@@ -123,6 +123,16 @@ NZでは車があると移動の自由度が一気に上がります。私は現
 
 渡航前は「本当に生活できるのか」と不安でしたが、自動車業界では最低賃金より上の条件で働けるケースも多く、しっかり働けば思っていた以上に貯金できます。
 
+稼いだNZドルを日本に送金するなら、銀行の国際送金よりWiseの方が手数料を大幅に抑えられます。詳しくは[送金比較の記事](/posts/nz-remittance-wise-bank-comparison/)で解説しています。
+
+{% include affiliate-box.html
+  title="💳 Wise — 稼いだNZドルを手数料を抑えて日本に送金"
+  description="ミッドマーケットレートが適用され、銀行の国際送金より手数料が低い。NZドルから日本円への送金・ATM引き出しに対応。ワーホリ中の資金管理をシンプルにしたい方に。"
+  link="https://wise.com/invite/drhc/kentoh70"
+  link_text="Wiseを無料で開設する →"
+  note="※ 広告・PR"
+%}
+
 NZで仕事を探す方法や面接の実態については、こちらもあわせてどうぞ。
 
 - [NZワーホリで仕事を探す方法](/posts/nz-working-holiday-job-search/)
